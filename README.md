@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ramisa Alam</h1>
 
-I'm currently working as a **Software Engineer - Level 2** at ![Chaldal](https://chaldal.tech/). I completed my undergraduate degree in **Computer Science** from **BUET**.
+I'm currently working as a **Software Engineer - Level 2** at ![Chaldal](https://chaldal.tech/). I completed my undergraduate degree in **Computer Science** from **BUET** in 2023.
 
 - 🧩 I enjoy designing efficient solutions for complex algorithmic problems. I was active in ***Competitive Programming*** during my undergrad. 
 - 👩🏻‍💻 I am currently learning about ***Functional Programming***, ***Designing Distributed Systems***, and ***Developing Data-Driven Solutions***.
