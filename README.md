@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Ramisa Alam</h1>
 
-I'm currently working as a **Software Engineer - Level 3** at [Chaldal](https://chaldal.tech/). I completed my undergraduate degree in **Computer Science** from **BUET** in 2023.
+I'm currently working as a **Software Dev Engineer** at [AWS](https://aws.amazon.com). I completed my undergraduate degree in **Computer Science** from **BUET** in 2023 and worked as a Software Engineer at [Chaldal.com](https://chaldal.com/) for a year.
 
 - 🧩 I enjoy designing efficient solutions for complex algorithmic problems. I was active in ***Competitive Programming*** during my undergrad. 
-- 👩🏻‍💻 I am currently learning about ***Functional Programming***, ***Designing Distributed Systems***, and ***Developing Data-Driven Solutions***.
-- 🔬 I am also involved in research projects in the field of ***Natural Language Processing*** and ***Unsupervised Object Detection***.
+- 👩🏻‍💻 I am currently learning the ins and outs of ***AWS***, ***Designing Distributed Systems***, and ***Developing Data-Driven Solutions***.
+- 🔬 I am also interested in research projects in the field of ***Natural Language Processing***.
 
 > ***Feel free to reach out to me on [***linkedin***](https://www.linkedin.com/in/ramisa-alam-459308204/) or [***mail***](mailto:ramisa2108@gmail.com) if you have similar interests and want to discuss ideas or collaborate.***
 
@@ -38,6 +38,7 @@ I'm currently working as a **Software Engineer - Level 3** at [Chaldal](https://
 ![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux&logoColor=f5ba3b&label=)
 ![Microsoft Azure](https://img.shields.io/static/v1?&message=Microsoft%20Azure&color=2496ED&logo=microsoftazure&logoColor=FFFFFF&label=)
 ![Azure Devops](https://img.shields.io/static/v1?&message=Azure%20Devops&color=0e6db5&logo=azuredevops&logoColor=FFFFFF&label=)
+![AWS](https://img.shields.io/static/v1?&message=AWS&color=0a2c82&logo=aws&logoColor=FFFFFF&label=)
 
 - **Machine Learning -** 
 ![PyTorch](https://img.shields.io/static/v1?&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
